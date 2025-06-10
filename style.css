@@ -107,6 +107,11 @@ main {
     position: relative;
 }
 
+.menu-img, .sale-img, .footer-img, .logo-img:hover {
+    margin: 10px;
+    border: 3px solid navy;
+}
+
 .menu-info {
     max-width: 70%;
     position: relative;
